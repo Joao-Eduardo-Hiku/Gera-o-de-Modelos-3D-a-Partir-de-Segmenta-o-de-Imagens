@@ -1,0 +1,12 @@
+numpy
+scipy
+scikit-image
+pydicom
+oct2py
+numpy-stl
+pyvista
+trimesh
+opencv-python
+pycocotools
+matplotlib
+pytest

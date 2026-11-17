@@ -1,0 +1,9 @@
+dados/*
+!dados/README.md
+saidas/
+__pycache__/
+.venv/
+*.stl
+*.obj
+*.dcm
+.ipynb_checkpoints/
